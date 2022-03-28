@@ -1,1 +1,2 @@
-# wrf_gw
+# Scripts & plots for WRF GW/No GW simulations
+
