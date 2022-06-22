@@ -1,2 +1,2 @@
-# Scripts & plots for WRF GW/No GW simulations
+# Scripts & plots for WRF GW/FD simulations
 
